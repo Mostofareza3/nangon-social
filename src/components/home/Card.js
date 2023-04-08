@@ -19,7 +19,7 @@ const Card = ({ className, card }) => {
         </div>
         <button
           className="bg-success text-light flex items-center justify-center
-          w-full h-4 rounded-sm py-5 my-2
+          w-full h-4 rounded-sm py-5 mb-2
           "
         >
           Donate

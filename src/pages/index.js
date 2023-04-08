@@ -82,8 +82,12 @@ export default function Home() {
         </Layout>
       </main>
       <>
-        <AnimatedText text="Our procedure" />
+        <AnimatedText
+          text="Our procedure"
+          className="!text-6xl  xl:!text-4xl lg:!text-center lg:!text-5xl md:!text-3xl sm:!text-2xl "
+        />
         <AnimatedSubHeading
+          className="lg:!text-[1rem] md:!text-[14px] sm:!text-[12px]"
           text="According to the Bangladesh Social Policy, 6 (six) measures will be
           taken to ensure fairness and prosperity in the social system."
         />
@@ -93,8 +97,12 @@ export default function Home() {
       </>
 
       <>
-        <AnimatedText text="Structure of the organization" />
+        <AnimatedText
+          text="Structure of the organization"
+          className="!text-6xl xl:!text-4xl lg:!text-center lg:!text-5xl md:!text-3xl sm:!text-2xl "
+        />
         <AnimatedSubHeading
+          className="lg:!text-[1rem] md:!text-[14px] sm:!text-[12px]"
           text="Nongor Foundation is a private voluntary organization and will have
           three councils in its organizational structure for the smooth and fair
           management of its functions. (1) General Council, (2) Executive Council and (3) Advisory Council"

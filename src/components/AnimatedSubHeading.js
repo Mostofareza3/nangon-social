@@ -32,7 +32,7 @@ const singleWord = {
 const AnimatedSubHeading = ({ text, className = "" }) => {
   return (
     <div
-      className={`w-full mx-auto py-1 mt-4 px-4 sm:py-0 items-center justify-center text-center overflow-hidden dark:text-light`}
+      className={`w-[90%] mx-auto py-1 mt-4 px-4 sm:py-0 items-center justify-center text-center overflow-hidden dark:text-light`}
     >
       <motion.h1
         variants={quote}

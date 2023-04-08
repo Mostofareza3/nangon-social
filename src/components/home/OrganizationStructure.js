@@ -34,7 +34,7 @@ const OrganizationStructure = () => {
           </div>
         </div>
 
-        <div className="col-span-6 bg-greenGradient rounded-lg ">
+        <div className="col-span-6 sm:col-span-12 md:col-span-12 bg-greenGradient rounded-lg ">
           <div className="w-full h-auto p-10  text-light text-base bg-cover">
             <h1 className="text-[1.5rem] font-bold my-3 underline">
               Executive Council
@@ -66,7 +66,7 @@ const OrganizationStructure = () => {
             </ol>
           </div>
         </div>
-        <div className="col-span-6 bg-greenGradient rounded-lg ">
+        <div className="col-span-6 sm:col-span-12 md:col-span-12 bg-greenGradient rounded-lg ">
           <div className="w-full h-auto p-10  text-light text-base bg-cover">
             <h1 className="text-[1.5rem] font-bold my-3 underline">
               Advisory Council
