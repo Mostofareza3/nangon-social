@@ -44,11 +44,11 @@ export default function Home() {
                 text="Nongor Foundation"
               />
               <p className="my-4 text-base font-medium md:text-sm sm:text-xs">
-                "Nongor Foundation" is a non-political, non-profit organization
-                aimed at building a prosperous society through mutual
-                cooperation and welfare work. They believe social development
-                requires organized cooperation and creative thinking to benefit
-                future generations.
+                &#34Nongor Foundation&#34 is a non-political, non-profit
+                organization aimed at building a prosperous society through
+                mutual cooperation and welfare work. They believe social
+                development requires organized cooperation and creative thinking
+                to benefit future generations.
               </p>
               <div
                 className="flex items-center
